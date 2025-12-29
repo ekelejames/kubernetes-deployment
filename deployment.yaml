@@ -18,7 +18,7 @@ spec:
         app: devopsdemo
     spec:
       containers:
-      - image: ekelejay/devopsclass-app:1.0.0-4
+      - image: ekelejay/devopsclass-app:1.0.0-5
         name: devopsdemo
         resources: {}
 status: {}
